@@ -1,0 +1,20 @@
+#!/usr/bin/env python
+
+from sense_hat import SenseHat
+
+sense = SenseHat()
+
+sense.show_message(":D :D :D :D :D:D:D:D:D:D:D:D!")
+
+
+
+
+
+
+
+
+
+
+
+
+
